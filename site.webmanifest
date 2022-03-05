@@ -1,0 +1,19 @@
+{
+    "name": "The Cosmos Ladies",
+    "short_name": "The Cosmos Ladies",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#8f406",
+    "background_color": "#1a172",
+    "display": "standalone"
+}
